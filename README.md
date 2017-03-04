@@ -7,7 +7,7 @@ Sample submission repository for Open Data Hackathon Projects
 
 
 ##Vancouver Open Data Day Challenge
-*What VODDay Challenge is your project focusing on? (See th [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).)*
+*What VODDay Challenge is your project focusing on? (See the [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).)*
 
 
 
