@@ -31,7 +31,7 @@ This is a sample submission repository for Open Data Hackathon Projects. You can
  
  
 
-###What Open Data Sets Do You Still need?
+###What Open Data Sets Do You Still Need?
 *Identify open data sets that are not yet available, but would benifit or are needed for the project. Explain how you would use the data to improve your prototype and address the challenge.*
 
 *This is your chance to form a mini business case for the data you need to share with open data providers!*
