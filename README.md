@@ -1,5 +1,5 @@
 # VODday-Hackathon-Submissions
-Sample submission repository for Open Data Hackathon Projects
+This is a sample submission repository for Open Data Hackathon Projects. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point. You do not have send a pull request for this repo. This is just a sample of what your repo can look like when you submit it to us as part of the final process for the hackathon.
 
 ##Team Name
 *Choose a fun team name!*
