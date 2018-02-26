@@ -25,6 +25,8 @@
 
 ## Open Data Sets
 
+### What Open Data Sets Did You Use?
+
 *What open data sets, standards, OpenAPI's etc does your prototype draw on? How does it use them?*
 
  - List them here...
@@ -32,7 +34,7 @@
  
 
 ### What Open Data Sets Do You Still Need?
-*Identify open data sets that are not yet available, but would benifit or are needed for the project. Explain how you would use the data to improve your prototype and address the challenge.*
+*What open data sets are not yet available, but are needed for or would benifit your project. Explain how you would use the data to improve your prototype and address the challenge. Who might have this data?*
 
 *This is your chance to form a mini business case for the data you need to share with open data providers!*
 
