@@ -7,7 +7,7 @@
 
 
 ## Vancouver Open Data Day Challenge
-*What VODDay Challenge is your project focusing on? (See the [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).)*
+*What VODDay Challenge is your project focusing on? (See the [2018 VODday Challenges](https://www.opendatabc.ca/pages/vodday-2018-vancouver-open-data-day-hackathon#challenges).)*
 
 
 
